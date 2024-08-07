@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.jpg"
   name             : "Li Hao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Harbin Institute of Technology"
   uri              : bugli27.github.io # URL
